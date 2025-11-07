@@ -8,21 +8,6 @@
 - `styles.css` — стили оформления
 - `images/` — папка для изображений (опционально)
 
-## Как запустить локально
-1. Скачайте или клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/<ваш_логин>/indonesia-travel-site.git
-   ```
-2. Откройте файл `index.html` в браузере.
-
-## Как опубликовать на GitHub Pages
-1. В настройках репозитория выберите **Settings → Pages**.
-2. В разделе **Branch** укажите `main` и `/ (root)`.
-3. Сохраните настройки — сайт будет доступен по адресу:
-   ```
-   https://<ваш_логин>.github.io/indonesia-travel-site/
-   ```
-
 ## Контакты
 **Индонезия Тур**  
 Email: info@indonesiatour.com  
