@@ -2,7 +2,7 @@ body {margin:0;font-family:Arial,sans-serif;background:#f4f4f4;color:#333;}
 .site-header {background:#00796b;color:#fff;padding:20px;text-align:center;}
 .site-header nav ul {list-style:none;padding:0;margin:10px 0 0;}
 .site-header nav ul li {display:inline;margin:0 10px;}
-.site-header nav ul li a {color:#fff;text-decoration:none;}
+.site-header nav ul li a {color:#ddd;text-decoration:none;}
 .hero {text-align:center;padding:40px 20px;background:#009688;color:#fff;}
 .hero .btn {background:#ff9800;color:#fff;padding:10px 20px;text-decoration:none;border-radius:5px;}
 .container {max-width:900px;margin:20px auto;background:#fff;padding:20px;border-radius:8px;}
